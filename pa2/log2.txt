@@ -1,0 +1,6 @@
+New process started, uuid=4e5c2d87-ac13-4893-8f20-9ee189d70d1b
+Sent: 4e5c2d87-ac13-4893-8f20-9ee189d70d1b, flag=0
+Received: e8dd79ba-4a71-47a8-a8a8-d58478e243c8, flag=0, greater, 0
+Sent: e8dd79ba-4a71-47a8-a8a8-d58478e243c8, flag=0
+Leader is decided to e8dd79ba-4a71-47a8-a8a8-d58478e243c8.
+Sent: e8dd79ba-4a71-47a8-a8a8-d58478e243c8, flag=1
